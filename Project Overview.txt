@@ -1,0 +1,3 @@
+
+
+This file contains details of the project that we are going to create
